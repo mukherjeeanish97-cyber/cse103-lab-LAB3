@@ -62,3 +62,7 @@ python3 main.py
 **Course:** CSE103 — Computer Fundamentals & Career Pathways
 
 **University:** K.R. Mangalam University
+# My First Repository
+
+## Description
+CSE103 lab repository — LAB 3.
